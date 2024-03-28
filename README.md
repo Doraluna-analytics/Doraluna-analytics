@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Rūta.
+
 I am recent graduate from Data Analytics at Turing College.
 Studies formed practical knowledge of data analysis, problem-solving, and strategic thinking.
 I would like to make a meaningful impact in a role that values innovation, design thinking and is data-driven. 
