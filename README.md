@@ -16,9 +16,10 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 - 🏆 Selected in top 10% of Data analytics applicants.
 - 🌱 I’m currently learning Python.
 - 🚀 I'm becoming the driver.
-- ✨ "Love what you do and do what you love."
 - 👯 I would be happy to collaborate on challenging projects.
 - ⚡ I like to attend Meetups for learning & Conferences for Networking.
+- ✨ "Love what you do and do what you love."
+- ... Lift as you climb.
 
 
 ### Contact:
