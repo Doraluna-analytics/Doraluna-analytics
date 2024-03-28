@@ -18,11 +18,12 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 - 🚀 I'm becoming a driver.
 - ✨ "Love what you do and do what you love."
 - 👯 I would be happy to collaborate on challenging projects.
-- ⚡ Fun fact: I like to attend Meetups for learning & Conferences for Networking.
+- ⚡ I like to attend Meetups for learning & Conferences for Networking.
 
 
 ### Contact:
 doraluna.analytics@gmail.com
+https://www.linkedin.com/in/rutagruzdaite/
  
 <!--
 **Doraluna-analytics/Doraluna-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
