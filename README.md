@@ -23,6 +23,7 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 ### Contact:
 doraluna.analytics@gmail.com
+
 https://www.linkedin.com/in/rutagruzdaite/
  
 <!--
