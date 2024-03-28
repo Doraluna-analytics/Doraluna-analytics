@@ -2,8 +2,8 @@
 
 I am recent graduate from Data Analytics at Turing College.
 
+![Best_Data_Analytics_Tools_-_article_image](https://github.com/Doraluna-analytics/Doraluna-analytics/assets/143210222/d74220ec-d8c1-4e98-ad9d-35ae5e24b873)
 
-<img width="722" alt="Screenshot 2024-03-28 at 05 49 40" src="https://github.com/Doraluna-analytics/Doraluna-analytics/assets/143210222/bbc97939-fe79-4235-9eca-847d06355cf7">
 
 
 Technologies and Tools I use:
