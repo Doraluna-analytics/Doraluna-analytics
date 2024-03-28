@@ -12,13 +12,13 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 
 ### About Me:
-🔭 I’m currently looking for data analyst role.
-🏆 Selected in top 10% of Data analytics applicants.
-🌱 I’m currently learning Python.
-🚀 I'm becoming a driver.
-✨ "Love what you do and do what you love."
-👯 I would be happy to collaborate on challenging projects.
-⚡ Fun fact: I like to attend Meetups for learning & Conferences for Networking.
+- 🔭 I’m currently looking for data analyst role.
+- 🏆 Selected in top 10% of Data analytics applicants.
+- 🌱 I’m currently learning Python.
+- 🚀 I'm becoming a driver.
+- ✨ "Love what you do and do what you love."
+- 👯 I would be happy to collaborate on challenging projects.
+- ⚡ Fun fact: I like to attend Meetups for learning & Conferences for Networking.
 
 
 ### Contact:
