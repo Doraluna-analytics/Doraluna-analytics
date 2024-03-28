@@ -13,14 +13,16 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 ### About Me:
 🔭 I’m currently looking for data analyst role.
-🌱 I’m currently deepening my knowledge learning Python.
-🚀 
-👨‍💻 
-🎯 
-🏆 
-⚡
+🏆 Selected in top 10% of Data analytics applicants.
+🌱 I’m currently learning Python.
+🚀 I'm becoming a driver.
+✨ "Love what you do and do what you love."
+👯 I would be happy to collaborate on challenging projects.
+⚡ Fun fact: I like to attend Meetups for learning & Conferences for Networking.
 
 
+### Contact:
+doraluna.analytics@gmail.com
  
 <!--
 **Doraluna-analytics/Doraluna-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
