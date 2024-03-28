@@ -23,8 +23,7 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 ### Contact:
 
-![LinkedIn]((https://www.linkedin.com/in/rutagruzdaite/))
-![196-1967122_linkedin-icon-for-email-signature-linkedin-icon-image-size png](https://github.com/Doraluna-analytics/Doraluna-analytics/assets/143210222/33c87692-4743-41d6-911c-e668d801dd9e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutagruzdaite/)
 
  
 <!--
