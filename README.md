@@ -22,9 +22,9 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 
 ### Contact:
-doraluna.analytics@gmail.com
 
-https://www.linkedin.com/in/rutagruzdaite/
+![1656958733linkedin-logo-png]([https://github.com/Doraluna-analytics/Doraluna-analytics/assets/143210222/ecb2f842-4246-4a12-ba39-2558944b9216](https://www.linkedin.com/in/rutagruzdaite/))
+
  
 <!--
 **Doraluna-analytics/Doraluna-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
