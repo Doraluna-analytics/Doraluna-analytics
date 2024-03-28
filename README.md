@@ -23,7 +23,8 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 ### Contact:
 
-![LinkedIn](https://www.clipartmax.com/middle/m2i8b1N4G6G6N4i8_linkedin-icon-for-email-signature-linkedin-icon-image-size/)((https://www.linkedin.com/in/rutagruzdaite/))
+![LinkedIn]((https://www.linkedin.com/in/rutagruzdaite/))
+![196-1967122_linkedin-icon-for-email-signature-linkedin-icon-image-size png](https://github.com/Doraluna-analytics/Doraluna-analytics/assets/143210222/33c87692-4743-41d6-911c-e668d801dd9e)
 
  
 <!--
