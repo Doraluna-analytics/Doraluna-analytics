@@ -23,7 +23,7 @@ Spreadsheets, SQL, Tableau, Python, Figma, Adobe Creative Suite.
 
 ### Contact:
 
-![1656958733linkedin-logo-png]((https://www.linkedin.com/in/rutagruzdaite/))
+![LinkedIn_Logo svg]((https://www.linkedin.com/in/rutagruzdaite/))
 
  
 <!--
